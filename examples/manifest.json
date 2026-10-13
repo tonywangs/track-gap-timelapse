@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "synthetic": true,
+  "tracks": [
+    {
+      "alias": "Cedar (synthetic)",
+      "file": "track-0.gpx"
+    },
+    {
+      "alias": "Amber (synthetic)",
+      "file": "track-1.gpx"
+    }
+  ]
+}

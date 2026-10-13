@@ -1,0 +1,96 @@
+{
+  "python": "3.12.3 (main, Aug 31 2026, 10:18:26) [GCC 13.3.0]",
+  "platform": "Linux-6.8.0-124-generic-x86_64-with-glibc2.39",
+  "rss_unit": "KiB (Linux wait4 ru_maxrss; CLI process only)",
+  "installed_example_network_audit": "passed; socket.* and urllib.* events forbidden",
+  "workloads": {
+    "sample": {
+      "timestamped_points": 14,
+      "runs": [
+        {
+          "seconds": 0.182135,
+          "peak_rss_kib": 20664,
+          "exit_code": 0,
+          "files": {
+            "SHA256SUMS": {
+              "bytes": 161,
+              "sha256": "938f3b5dee7a7da3f65fac17d434680187708a9bba1e8b10723ea5623c719b0b"
+            },
+            "timelapse.html": {
+              "bytes": 25207,
+              "sha256": "d32ef97bfd45684cfd08cc40d12d9cd50ca86c4f0baded17556748be43c89102"
+            },
+            "timeline.json": {
+              "bytes": 3049,
+              "sha256": "738aa109d0d54e5cdc9d8ce327171661833aeff7986358df77fee0fdf0b2a0d5"
+            }
+          }
+        },
+        {
+          "seconds": 0.173043,
+          "peak_rss_kib": 20736,
+          "exit_code": 0,
+          "files": {
+            "SHA256SUMS": {
+              "bytes": 161,
+              "sha256": "938f3b5dee7a7da3f65fac17d434680187708a9bba1e8b10723ea5623c719b0b"
+            },
+            "timelapse.html": {
+              "bytes": 25207,
+              "sha256": "d32ef97bfd45684cfd08cc40d12d9cd50ca86c4f0baded17556748be43c89102"
+            },
+            "timeline.json": {
+              "bytes": 3049,
+              "sha256": "738aa109d0d54e5cdc9d8ce327171661833aeff7986358df77fee0fdf0b2a0d5"
+            }
+          }
+        }
+      ],
+      "repeated_output_hashes_match": true
+    },
+    "maximum": {
+      "timestamped_points": 20000,
+      "runs": [
+        {
+          "seconds": 1.499395,
+          "peak_rss_kib": 54664,
+          "exit_code": 0,
+          "files": {
+            "SHA256SUMS": {
+              "bytes": 161,
+              "sha256": "d8668ec70586613bc94c5ff6d9da8653a8a06688d4da6cbada65ffeba3f88f7d"
+            },
+            "timelapse.html": {
+              "bytes": 3148056,
+              "sha256": "fd4a5b32f6ed55a9a4cec2414c600ec47646f8b1122582fc90263ef2ad2a07a0"
+            },
+            "timeline.json": {
+              "bytes": 3125898,
+              "sha256": "b95201af2ffb97b0dbfea1a4b7a591e54296e808cbc0aa8f9de9f67faae0c226"
+            }
+          }
+        },
+        {
+          "seconds": 1.300604,
+          "peak_rss_kib": 54536,
+          "exit_code": 0,
+          "files": {
+            "SHA256SUMS": {
+              "bytes": 161,
+              "sha256": "d8668ec70586613bc94c5ff6d9da8653a8a06688d4da6cbada65ffeba3f88f7d"
+            },
+            "timelapse.html": {
+              "bytes": 3148056,
+              "sha256": "fd4a5b32f6ed55a9a4cec2414c600ec47646f8b1122582fc90263ef2ad2a07a0"
+            },
+            "timeline.json": {
+              "bytes": 3125898,
+              "sha256": "b95201af2ffb97b0dbfea1a4b7a591e54296e808cbc0aa8f9de9f67faae0c226"
+            }
+          }
+        }
+      ],
+      "repeated_output_hashes_match": true
+    }
+  }
+}

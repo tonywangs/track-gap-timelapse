@@ -1,0 +1,29 @@
+test_bad_xml_and_unsupported (tests.test_core.InputContract.test_bad_xml_and_unsupported) ... ok
+test_ignored_metadata_extensions_never_imported (tests.test_core.InputContract.test_ignored_metadata_extensions_never_imported) ... ok
+test_manifest_contract (tests.test_core.InputContract.test_manifest_contract) ... ok
+test_missing_time_does_not_bridge (tests.test_core.InputContract.test_missing_time_does_not_bridge) ... ok
+test_threshold_stationary_and_segment_endpoints (tests.test_core.InputContract.test_threshold_stationary_and_segment_endpoints) ... ok
+test_times (tests.test_core.InputContract.test_times) ... ok
+test_work_limits (tests.test_core.InputContract.test_work_limits) ... ok
+test_320_independent_seeded_cases (tests.test_core.Workflow.test_320_independent_seeded_cases) ... ok
+test_320_seeded_duplicate_rejections (tests.test_core.Workflow.test_320_seeded_duplicate_rejections) ... ok
+test_cancel_after_partial_publication (tests.test_core.Workflow.test_cancel_after_partial_publication) ... track-gap: cancelled
+ok
+test_cancel_during_directory_ownership_transitions (tests.test_core.Workflow.test_cancel_during_directory_ownership_transitions) ... track-gap: cancelled
+track-gap: cancelled
+ok
+test_collisions_and_race (tests.test_core.Workflow.test_collisions_and_race) ... ok
+test_failure_cleanup (tests.test_core.Workflow.test_failure_cleanup) ... ok
+test_hostile_alias_is_data (tests.test_core.Workflow.test_hostile_alias_is_data) ... ok
+test_installed_cli_offline (tests.test_core.Workflow.test_installed_cli_offline) ... ok
+test_sample_deterministic_and_provenance (tests.test_core.Workflow.test_sample_deterministic_and_provenance) ... ok
+test_signal_cancellation_and_timeout (tests.test_core.Workflow.test_signal_cancellation_and_timeout) ... track-gap: cancelled
+track-gap: cancelled
+track-gap: 60-second runtime limit exceeded
+track-gap: 60-second runtime limit exceeded
+ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 4.888s
+
+OK

@@ -1,0 +1,31 @@
+{
+  "browser": "149.0.7827.55",
+  "playwright": "1.61.1",
+  "node": "v24.20.0",
+  "seeded_cases": 320,
+  "queries": 26972,
+  "position_comparisons": 83059,
+  "svg_frames_checked": 2205,
+  "svg_path_cases_checked": 320,
+  "max_observation_rows": 50,
+  "large_workload_observations_reached": 20000,
+  "large_dom_elements": 477,
+  "large_svg_bytes": 454408,
+  "large_load_ms": 605,
+  "external_requests": 0,
+  "page_errors": 0,
+  "elapsed_seconds": 137.707,
+  "checks": [
+    "play/pause",
+    "speed",
+    "seek",
+    "keyboard",
+    "filter",
+    "pagination",
+    "narrow viewport",
+    "JSON download",
+    "SVG download",
+    "hostile alias",
+    "single observation"
+  ]
+}
